@@ -6,7 +6,7 @@
 The first thing to do is to clone the repository:
 
 ```sh
-$ git clone https://github.com/mohammedwed/Lushlyrics-insecure.git
+$ git clone https://github.com/mcintln0/django-lushlyrics.git
 $ cd lushlyrics-webapp-django
 ```
 
